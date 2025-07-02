@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.finsolutions</groupId>
-	<artifactId>first-string-app</artifactId>
+	<artifactId>first-spring-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>first-string-app</name>
 	<description>Demo project for Spring Boot</description>
